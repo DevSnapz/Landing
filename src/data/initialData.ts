@@ -11,7 +11,7 @@ export const initialProjects: Project[] = [
     creatorGithub: 'Frozen-47',
     bannerGradient: 'from-emerald-600 to-teal-800',
     techStack: ['React', 'TypeScript', 'Node.js', 'Vector DB', 'OpenAI API'],
-    githubUrl: 'https://github.com/Frozen-47/ai-verse',
+    githubUrl: 'https://github.com/Frozen-47/AiVerse',
     liveUrl: 'https://aiverse.frozenn.in',
     fundingGoal: 2000,
     fundingRaised: 0,
